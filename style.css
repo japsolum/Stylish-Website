@@ -1,0 +1,27 @@
+.text{
+  color: darkslategray;
+}
+.mainheader{
+  margin-bottom: 0px;
+  color: white;
+  background-color: darkslategray;
+}
+.subheader{
+  color: black;
+}
+.internet{
+  max-width: 927px;
+  margin:auto;
+}
+.imagecompthink{
+  max-width: 500px;
+  max-height: 600px;
+  margin-left: 30px;
+}
+.mainidea{
+  margin-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: medium solid darkslategray;
+  border-radius: 10px;
+}
